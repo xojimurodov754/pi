@@ -1,0 +1,12 @@
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: burlywood;
+    text-align: center;
+}
+
+button:hover{
+    background-color: red;
+    color: white;
+
+}
